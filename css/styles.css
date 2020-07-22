@@ -1,0 +1,38 @@
+.row-header {
+  margin: 0px auto;
+  padding: 0px;
+}
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px 50px 0px;
+  border-bottom: 1px ridge;
+  min-height: 400px;
+}
+.footer {
+  background-color: #4bbcdb;
+  color: floralwhite;
+  margin: 0px auto;
+  padding: 40px 0px 40px 0px;
+}
+.footer a {
+  font-size: 1.3em;
+  color: floralwhite;
+  padding-right: 50px;
+  text-decoration: none;
+}
+.jumbotron {
+  padding: 70px 30px 70px 30px;
+  margin: 0px auto;
+  background: #4bbcdb;
+  color: floralwhite;
+}
+.navbar a {
+  color: floralwhite !important;
+}
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0;
+}
+.bg-light {
+  background-color: #4bbcdb !important;
+}
